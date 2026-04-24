@@ -28,4 +28,4 @@ export async function GET(req) {
       message: "Something went wrong !Please try again",
     });
   }
-}
+}

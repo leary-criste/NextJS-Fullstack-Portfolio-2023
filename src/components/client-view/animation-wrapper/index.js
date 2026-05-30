@@ -13,4 +13,4 @@ export default function AnimationWrapper({ children, className, ...props }) {
       {children}
     </motion.div>
   );
-}
+}

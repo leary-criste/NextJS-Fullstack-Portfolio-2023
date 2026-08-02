@@ -38,4 +38,4 @@ export async function PUT(req) {
       message: "Something went wrong !Please try again",
     });
   }
-}
+}

@@ -49,4 +49,4 @@ export default function AdminEducationView({handleSaveData, formData, setFormDat
     </button>
   </div>
 </div>
-}
+}

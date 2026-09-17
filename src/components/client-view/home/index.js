@@ -143,4 +143,4 @@ export default function ClientHomeView({ data }) {
       </AnimationWrapper>
     </div>
   );
-}
+}
